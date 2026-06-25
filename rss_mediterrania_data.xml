@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Reporte Edificio Mediterrània</title>
+    <link>https://github.com</link>
+    <description>Feed RSS automatizado para: Mediterrània</description>
+    <lastBuildDate>Thu, 25 Jun 2026 07:57:15 GMT</lastBuildDate>
+    <item>
+      <title>Datos de Zona: Mediterrània_P1_Cantina</title>
+      <description><![CDATA[Zona: Mediterrània_P1_Cantina | Temperatura: 22.48°C | Humedad: 62.36% | CO2: 0 ppm]]></description>
+      <guid isPermaLink="false">2026-06-25T07:57:09.502Z</guid>
+      <pubDate>Thu, 25 Jun 2026 07:57:15 GMT</pubDate>
+      <zone>Mediterrània_P1_Cantina</zone>
+      <temperature>22.48</temperature>
+      <humidity>62.36</humidity>
+      <co2>0</co2>
+    </item>
+    <item>
+      <title>Datos de Zona: Mediterrània_P2_Corner</title>
+      <description><![CDATA[Zona: Mediterrània_P2_Corner | Temperatura: 22.14°C | Humedad: 69.69% | CO2: 541.56 ppm]]></description>
+      <guid isPermaLink="false">2026-06-25T07:57:09.510Z</guid>
+      <pubDate>Thu, 25 Jun 2026 07:57:15 GMT</pubDate>
+      <zone>Mediterrània_P2_Corner</zone>
+      <temperature>22.14</temperature>
+      <humidity>69.69</humidity>
+      <co2>541.56</co2>
+    </item>
+    <item>
+      <title>Datos de Zona: Mediterrània_P3_Ascensor</title>
+      <description><![CDATA[Zona: Mediterrània_P3_Ascensor | Temperatura: 22.68°C | Humedad: 66.25% | CO2: 820.61 ppm]]></description>
+      <guid isPermaLink="false">2026-06-25T07:57:09.510Z</guid>
+      <pubDate>Thu, 25 Jun 2026 07:57:15 GMT</pubDate>
+      <zone>Mediterrània_P3_Ascensor</zone>
+      <temperature>22.68</temperature>
+      <humidity>66.25</humidity>
+      <co2>820.61</co2>
+    </item>
+    <item>
+      <title>Datos de Zona: Mediterrània_P4_Ascensores</title>
+      <description><![CDATA[Zona: Mediterrània_P4_Ascensores | Temperatura: 23.03°C | Humedad: 62.45% | CO2: 1866.92 ppm]]></description>
+      <guid isPermaLink="false">2026-06-25T07:57:09.510Z</guid>
+      <pubDate>Thu, 25 Jun 2026 07:57:15 GMT</pubDate>
+      <zone>Mediterrània_P4_Ascensores</zone>
+      <temperature>23.03</temperature>
+      <humidity>62.45</humidity>
+      <co2>1866.92</co2>
+    </item>
+  </channel>
+</rss>
