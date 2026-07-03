@@ -4,54 +4,54 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Fri, 03 Jul 2026 22:41:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 23:41:49 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
-      <description><![CDATA[🌡️ Temp: 22.87°C
+      <description><![CDATA[🌡️ Temp: 22.67°C
 💧 Hum: 64.87%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-07-03T22:41:30.521Z</guid>
-      <pubDate>Fri, 03 Jul 2026 22:41:35 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-03T23:41:38.577Z</guid>
+      <pubDate>Fri, 03 Jul 2026 23:41:49 GMT</pubDate>
       <zone>P1 Cantina</zone>
-      <temperature>22.87</temperature>
+      <temperature>22.67</temperature>
       <humidity>64.87</humidity>
       <co2>0</co2>
     </item>
     <item>
       <title>P2 Corner</title>
       <description><![CDATA[🌡️ Temp: 22.54°C
-💧 Hum: 66.95%
+💧 Hum: 67.95%
 💨 CO2: 494.28 ppm]]></description>
-      <guid isPermaLink="false">2026-07-03T22:41:30.522Z</guid>
-      <pubDate>Fri, 03 Jul 2026 22:41:35 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-03T23:41:38.581Z</guid>
+      <pubDate>Fri, 03 Jul 2026 23:41:49 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>22.54</temperature>
-      <humidity>66.95</humidity>
+      <humidity>67.95</humidity>
       <co2>494.28</co2>
     </item>
     <item>
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 22.68°C
-💧 Hum: 67.16%
+💧 Hum: 68.17%
 💨 CO2: 768.88 ppm]]></description>
-      <guid isPermaLink="false">2026-07-03T22:41:30.522Z</guid>
-      <pubDate>Fri, 03 Jul 2026 22:41:35 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-03T23:41:38.581Z</guid>
+      <pubDate>Fri, 03 Jul 2026 23:41:49 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>22.68</temperature>
-      <humidity>67.16</humidity>
+      <humidity>68.17</humidity>
       <co2>768.88</co2>
     </item>
     <item>
       <title>P4 Ascensores</title>
       <description><![CDATA[🌡️ Temp: 23.41°C
-💧 Hum: 64.11%
-💨 CO2: 1804.97 ppm]]></description>
-      <guid isPermaLink="false">2026-07-03T22:41:30.522Z</guid>
-      <pubDate>Fri, 03 Jul 2026 22:41:35 GMT</pubDate>
+💧 Hum: 66.13%
+💨 CO2: 1794.31 ppm]]></description>
+      <guid isPermaLink="false">2026-07-03T23:41:38.581Z</guid>
+      <pubDate>Fri, 03 Jul 2026 23:41:49 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>23.41</temperature>
-      <humidity>64.11</humidity>
-      <co2>1804.97</co2>
+      <humidity>66.13</humidity>
+      <co2>1794.31</co2>
     </item>
   </channel>
 </rss>
