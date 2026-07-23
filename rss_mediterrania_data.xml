@@ -4,14 +4,14 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Thu, 23 Jul 2026 02:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 03:41:31 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
       <description><![CDATA[🌡️ Temp: 22.78°C
 💧 Hum: 77.36%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-07-23T02:41:27.837Z</guid>
-      <pubDate>Thu, 23 Jul 2026 02:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-23T03:41:27.613Z</guid>
+      <pubDate>Thu, 23 Jul 2026 03:41:31 GMT</pubDate>
       <zone>P1 Cantina</zone>
       <temperature>22.78</temperature>
       <humidity>77.36</humidity>
@@ -22,8 +22,8 @@
       <description><![CDATA[🌡️ Temp: 22.47°C
 💧 Hum: 78.2%
 💨 CO2: 655.44 ppm]]></description>
-      <guid isPermaLink="false">2026-07-23T02:41:27.838Z</guid>
-      <pubDate>Thu, 23 Jul 2026 02:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-23T03:41:27.613Z</guid>
+      <pubDate>Thu, 23 Jul 2026 03:41:31 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>22.47</temperature>
       <humidity>78.2</humidity>
@@ -34,8 +34,8 @@
       <description><![CDATA[🌡️ Temp: 23.01°C
 💧 Hum: 75.42%
 💨 CO2: 823.24 ppm]]></description>
-      <guid isPermaLink="false">2026-07-23T02:41:27.838Z</guid>
-      <pubDate>Thu, 23 Jul 2026 02:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-23T03:41:27.613Z</guid>
+      <pubDate>Thu, 23 Jul 2026 03:41:31 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>23.01</temperature>
       <humidity>75.42</humidity>
@@ -46,8 +46,8 @@
       <description><![CDATA[🌡️ Temp: 22.71°C
 💧 Hum: 72.81%
 💨 CO2: 1855.31 ppm]]></description>
-      <guid isPermaLink="false">2026-07-23T02:41:27.838Z</guid>
-      <pubDate>Thu, 23 Jul 2026 02:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-07-23T03:41:27.613Z</guid>
+      <pubDate>Thu, 23 Jul 2026 03:41:31 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>22.71</temperature>
       <humidity>72.81</humidity>
