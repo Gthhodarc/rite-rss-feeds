@@ -4,14 +4,14 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:41:31 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
       <description><![CDATA[🌡️ Temp: 23.22°C
 💧 Hum: 65.7%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-08-16T07:41:28.275Z</guid>
-      <pubDate>Sun, 16 Aug 2026 07:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-08-16T08:41:26.461Z</guid>
+      <pubDate>Sun, 16 Aug 2026 08:41:31 GMT</pubDate>
       <zone>P1 Cantina</zone>
       <temperature>23.22</temperature>
       <humidity>65.7</humidity>
@@ -22,8 +22,8 @@
       <description><![CDATA[🌡️ Temp: 24.06°C
 💧 Hum: 68.15%
 💨 CO2: 509.47 ppm]]></description>
-      <guid isPermaLink="false">2026-08-16T07:41:28.276Z</guid>
-      <pubDate>Sun, 16 Aug 2026 07:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-08-16T08:41:26.462Z</guid>
+      <pubDate>Sun, 16 Aug 2026 08:41:31 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>24.06</temperature>
       <humidity>68.15</humidity>
@@ -33,25 +33,25 @@
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 23.03°C
 💧 Hum: 68.63%
-💨 CO2: 782.44 ppm]]></description>
-      <guid isPermaLink="false">2026-08-16T07:41:28.276Z</guid>
-      <pubDate>Sun, 16 Aug 2026 07:41:31 GMT</pubDate>
+💨 CO2: 772.27 ppm]]></description>
+      <guid isPermaLink="false">2026-08-16T08:41:26.462Z</guid>
+      <pubDate>Sun, 16 Aug 2026 08:41:31 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>23.03</temperature>
       <humidity>68.63</humidity>
-      <co2>782.44</co2>
+      <co2>772.27</co2>
     </item>
     <item>
       <title>P4 Ascensores</title>
       <description><![CDATA[🌡️ Temp: 23.2°C
 💧 Hum: 65.62%
-💨 CO2: 1834.17 ppm]]></description>
-      <guid isPermaLink="false">2026-08-16T07:41:28.276Z</guid>
-      <pubDate>Sun, 16 Aug 2026 07:41:31 GMT</pubDate>
+💨 CO2: 1834.14 ppm]]></description>
+      <guid isPermaLink="false">2026-08-16T08:41:26.462Z</guid>
+      <pubDate>Sun, 16 Aug 2026 08:41:31 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>23.2</temperature>
       <humidity>65.62</humidity>
-      <co2>1834.17</co2>
+      <co2>1834.14</co2>
     </item>
   </channel>
 </rss>
