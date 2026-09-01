@@ -4,38 +4,38 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:41:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:41:30 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
       <description><![CDATA[🌡️ Temp: 23.47°C
-💧 Hum: 70.23%
+💧 Hum: 69.22%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-09-01T18:41:28.484Z</guid>
-      <pubDate>Tue, 01 Sep 2026 18:41:32 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-01T19:41:27.967Z</guid>
+      <pubDate>Tue, 01 Sep 2026 19:41:30 GMT</pubDate>
       <zone>P1 Cantina</zone>
       <temperature>23.47</temperature>
-      <humidity>70.23</humidity>
+      <humidity>69.22</humidity>
       <co2>0</co2>
     </item>
     <item>
       <title>P2 Corner</title>
       <description><![CDATA[🌡️ Temp: 22.74°C
 💧 Hum: 70.69%
-💨 CO2: 651.23 ppm]]></description>
-      <guid isPermaLink="false">2026-09-01T18:41:28.485Z</guid>
-      <pubDate>Tue, 01 Sep 2026 18:41:32 GMT</pubDate>
+💨 CO2: 590.77 ppm]]></description>
+      <guid isPermaLink="false">2026-09-01T19:41:27.968Z</guid>
+      <pubDate>Tue, 01 Sep 2026 19:41:30 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>22.74</temperature>
       <humidity>70.69</humidity>
-      <co2>651.23</co2>
+      <co2>590.77</co2>
     </item>
     <item>
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 22.39°C
 💧 Hum: 76.96%
 💨 CO2: 760.87 ppm]]></description>
-      <guid isPermaLink="false">2026-09-01T18:41:28.485Z</guid>
-      <pubDate>Tue, 01 Sep 2026 18:41:32 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-01T19:41:27.968Z</guid>
+      <pubDate>Tue, 01 Sep 2026 19:41:30 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>22.39</temperature>
       <humidity>76.96</humidity>
@@ -46,8 +46,8 @@
       <description><![CDATA[🌡️ Temp: 23.12°C
 💧 Hum: 70.4%
 💨 CO2: 1782.04 ppm]]></description>
-      <guid isPermaLink="false">2026-09-01T18:41:28.485Z</guid>
-      <pubDate>Tue, 01 Sep 2026 18:41:32 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-01T19:41:27.968Z</guid>
+      <pubDate>Tue, 01 Sep 2026 19:41:30 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>23.12</temperature>
       <humidity>70.4</humidity>
