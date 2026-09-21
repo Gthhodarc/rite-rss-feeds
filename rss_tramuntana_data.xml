@@ -4,18 +4,18 @@
     <title>Reporte Edificio Tramuntana</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Tramuntana</description>
-    <lastBuildDate>Mon, 21 Sep 2026 07:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:41:36 GMT</lastBuildDate>
     <item>
       <title>P1 Recepción</title>
       <description><![CDATA[🌡️ Temp: 23.05°C
 💧 Hum: 59.98%
-💨 CO2: 487.33 ppm]]></description>
-      <guid isPermaLink="false">2026-09-21T07:41:28.100Z</guid>
-      <pubDate>Mon, 21 Sep 2026 07:41:33 GMT</pubDate>
+💨 CO2: 507.2 ppm]]></description>
+      <guid isPermaLink="false">2026-09-21T08:41:29.214Z</guid>
+      <pubDate>Mon, 21 Sep 2026 08:41:36 GMT</pubDate>
       <zone>P1 Recepción</zone>
       <temperature>23.05</temperature>
       <humidity>59.98</humidity>
-      <co2>487.33</co2>
+      <co2>507.2</co2>
     </item>
   </channel>
 </rss>
