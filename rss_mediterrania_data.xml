@@ -4,14 +4,14 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Wed, 21 Oct 2026 02:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:41:30 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
       <description><![CDATA[🌡️ Temp: 22.45°C
 💧 Hum: 60.17%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-10-21T02:41:31.053Z</guid>
-      <pubDate>Wed, 21 Oct 2026 02:41:34 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-21T03:41:27.492Z</guid>
+      <pubDate>Wed, 21 Oct 2026 03:41:30 GMT</pubDate>
       <zone>P1 Cantina</zone>
       <temperature>22.45</temperature>
       <humidity>60.17</humidity>
@@ -20,22 +20,22 @@
     <item>
       <title>P2 Corner</title>
       <description><![CDATA[🌡️ Temp: 21.38°C
-💧 Hum: 62.13%
-💨 CO2: 484.01 ppm]]></description>
-      <guid isPermaLink="false">2026-10-21T02:41:31.054Z</guid>
-      <pubDate>Wed, 21 Oct 2026 02:41:34 GMT</pubDate>
+💧 Hum: 60.1%
+💨 CO2: 494.13 ppm]]></description>
+      <guid isPermaLink="false">2026-10-21T03:41:27.492Z</guid>
+      <pubDate>Wed, 21 Oct 2026 03:41:30 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>21.38</temperature>
-      <humidity>62.13</humidity>
-      <co2>484.01</co2>
+      <humidity>60.1</humidity>
+      <co2>494.13</co2>
     </item>
     <item>
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 22.25°C
 💧 Hum: 52.55%
 💨 CO2: 772.33 ppm]]></description>
-      <guid isPermaLink="false">2026-10-21T02:41:31.054Z</guid>
-      <pubDate>Wed, 21 Oct 2026 02:41:34 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-21T03:41:27.492Z</guid>
+      <pubDate>Wed, 21 Oct 2026 03:41:30 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>22.25</temperature>
       <humidity>52.55</humidity>
@@ -45,13 +45,13 @@
       <title>P4 Ascensores</title>
       <description><![CDATA[🌡️ Temp: 22.74°C
 💧 Hum: 49.35%
-💨 CO2: 1794.62 ppm]]></description>
-      <guid isPermaLink="false">2026-10-21T02:41:31.054Z</guid>
-      <pubDate>Wed, 21 Oct 2026 02:41:34 GMT</pubDate>
+💨 CO2: 1802.39 ppm]]></description>
+      <guid isPermaLink="false">2026-10-21T03:41:27.492Z</guid>
+      <pubDate>Wed, 21 Oct 2026 03:41:30 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>22.74</temperature>
       <humidity>49.35</humidity>
-      <co2>1794.62</co2>
+      <co2>1802.39</co2>
     </item>
   </channel>
 </rss>
