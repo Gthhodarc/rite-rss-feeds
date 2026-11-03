@@ -4,54 +4,54 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Tue, 03 Nov 2026 15:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:41:33 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
-      <description><![CDATA[🌡️ Temp: 23.73°C
-💧 Hum: 55.33%
+      <description><![CDATA[🌡️ Temp: 23.5°C
+💧 Hum: 55.18%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-11-03T15:41:26.665Z</guid>
-      <pubDate>Tue, 03 Nov 2026 15:41:30 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-03T16:41:29.892Z</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:33 GMT</pubDate>
       <zone>P1 Cantina</zone>
-      <temperature>23.73</temperature>
-      <humidity>55.33</humidity>
+      <temperature>23.5</temperature>
+      <humidity>55.18</humidity>
       <co2>0</co2>
     </item>
     <item>
       <title>P2 Corner</title>
-      <description><![CDATA[🌡️ Temp: 21.35°C
-💧 Hum: 61.9%
-💨 CO2: 1991.11 ppm]]></description>
-      <guid isPermaLink="false">2026-11-03T15:41:26.666Z</guid>
-      <pubDate>Tue, 03 Nov 2026 15:41:30 GMT</pubDate>
+      <description><![CDATA[🌡️ Temp: 21.49°C
+💧 Hum: 64.01%
+💨 CO2: 1939 ppm]]></description>
+      <guid isPermaLink="false">2026-11-03T16:41:29.892Z</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:33 GMT</pubDate>
       <zone>P2 Corner</zone>
-      <temperature>21.35</temperature>
-      <humidity>61.9</humidity>
-      <co2>1991.11</co2>
+      <temperature>21.49</temperature>
+      <humidity>64.01</humidity>
+      <co2>1939</co2>
     </item>
     <item>
       <title>P3 Ascensor</title>
-      <description><![CDATA[🌡️ Temp: 22.82°C
-💧 Hum: 54.22%
-💨 CO2: 877.26 ppm]]></description>
-      <guid isPermaLink="false">2026-11-03T15:41:26.666Z</guid>
-      <pubDate>Tue, 03 Nov 2026 15:41:30 GMT</pubDate>
+      <description><![CDATA[🌡️ Temp: 22.84°C
+💧 Hum: 55.2%
+💨 CO2: 857.09 ppm]]></description>
+      <guid isPermaLink="false">2026-11-03T16:41:29.892Z</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:33 GMT</pubDate>
       <zone>P3 Ascensor</zone>
-      <temperature>22.82</temperature>
-      <humidity>54.22</humidity>
-      <co2>877.26</co2>
+      <temperature>22.84</temperature>
+      <humidity>55.2</humidity>
+      <co2>857.09</co2>
     </item>
     <item>
       <title>P4 Ascensores</title>
-      <description><![CDATA[🌡️ Temp: 22.78°C
-💧 Hum: 50.02%
-💨 CO2: 1950.43 ppm]]></description>
-      <guid isPermaLink="false">2026-11-03T15:41:26.666Z</guid>
-      <pubDate>Tue, 03 Nov 2026 15:41:30 GMT</pubDate>
+      <description><![CDATA[🌡️ Temp: 23.64°C
+💧 Hum: 51.7%
+💨 CO2: 1922.83 ppm]]></description>
+      <guid isPermaLink="false">2026-11-03T16:41:29.892Z</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:33 GMT</pubDate>
       <zone>P4 Ascensores</zone>
-      <temperature>22.78</temperature>
-      <humidity>50.02</humidity>
-      <co2>1950.43</co2>
+      <temperature>23.64</temperature>
+      <humidity>51.7</humidity>
+      <co2>1922.83</co2>
     </item>
   </channel>
 </rss>
