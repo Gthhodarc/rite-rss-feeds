@@ -4,38 +4,38 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Thu, 19 Nov 2026 23:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:41:33 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
-      <description><![CDATA[🌡️ Temp: 23.49°C
-💧 Hum: 46.24%
+      <description><![CDATA[🌡️ Temp: 23.28°C
+💧 Hum: 45.21%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-11-19T23:41:28.570Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-20T00:41:30.102Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:41:33 GMT</pubDate>
       <zone>P1 Cantina</zone>
-      <temperature>23.49</temperature>
-      <humidity>46.24</humidity>
+      <temperature>23.28</temperature>
+      <humidity>45.21</humidity>
       <co2>0</co2>
     </item>
     <item>
       <title>P2 Corner</title>
       <description><![CDATA[🌡️ Temp: 23.39°C
 💧 Hum: 43.19%
-💨 CO2: 480.37 ppm]]></description>
-      <guid isPermaLink="false">2026-11-19T23:41:28.579Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:41:31 GMT</pubDate>
+💨 CO2: 480.34 ppm]]></description>
+      <guid isPermaLink="false">2026-11-20T00:41:30.103Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:41:33 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>23.39</temperature>
       <humidity>43.19</humidity>
-      <co2>480.37</co2>
+      <co2>480.34</co2>
     </item>
     <item>
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 23.39°C
 💧 Hum: 40.28%
 💨 CO2: 773.73 ppm]]></description>
-      <guid isPermaLink="false">2026-11-19T23:41:28.579Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-20T00:41:30.103Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:41:33 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>23.39</temperature>
       <humidity>40.28</humidity>
@@ -46,8 +46,8 @@
       <description><![CDATA[🌡️ Temp: 24.44°C
 💧 Hum: 38.12%
 💨 CO2: 1802.46 ppm]]></description>
-      <guid isPermaLink="false">2026-11-19T23:41:28.579Z</guid>
-      <pubDate>Thu, 19 Nov 2026 23:41:31 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-20T00:41:30.103Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:41:33 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>24.44</temperature>
       <humidity>38.12</humidity>
