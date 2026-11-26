@@ -4,14 +4,14 @@
     <title>Reporte Edificio Mediterrània</title>
     <link>https://github.com</link>
     <description>Feed RSS automatizado para: Mediterrània</description>
-    <lastBuildDate>Thu, 26 Nov 2026 02:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:41:28 GMT</lastBuildDate>
     <item>
       <title>P1 Cantina</title>
       <description><![CDATA[🌡️ Temp: 23.2°C
 💧 Hum: 45.16%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-11-26T02:41:26.722Z</guid>
-      <pubDate>Thu, 26 Nov 2026 02:41:29 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-26T03:41:25.548Z</guid>
+      <pubDate>Thu, 26 Nov 2026 03:41:28 GMT</pubDate>
       <zone>P1 Cantina</zone>
       <temperature>23.2</temperature>
       <humidity>45.16</humidity>
@@ -22,8 +22,8 @@
       <description><![CDATA[🌡️ Temp: 0°C
 💧 Hum: 0%
 💨 CO2: 0 ppm]]></description>
-      <guid isPermaLink="false">2026-11-26T02:41:26.723Z</guid>
-      <pubDate>Thu, 26 Nov 2026 02:41:29 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-26T03:41:25.548Z</guid>
+      <pubDate>Thu, 26 Nov 2026 03:41:28 GMT</pubDate>
       <zone>P2 Corner</zone>
       <temperature>0</temperature>
       <humidity>0</humidity>
@@ -32,13 +32,13 @@
     <item>
       <title>P3 Ascensor</title>
       <description><![CDATA[🌡️ Temp: 22.56°C
-💧 Hum: 45.35%
+💧 Hum: 44.35%
 💨 CO2: 776.46 ppm]]></description>
-      <guid isPermaLink="false">2026-11-26T02:41:26.723Z</guid>
-      <pubDate>Thu, 26 Nov 2026 02:41:29 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-26T03:41:25.548Z</guid>
+      <pubDate>Thu, 26 Nov 2026 03:41:28 GMT</pubDate>
       <zone>P3 Ascensor</zone>
       <temperature>22.56</temperature>
-      <humidity>45.35</humidity>
+      <humidity>44.35</humidity>
       <co2>776.46</co2>
     </item>
     <item>
@@ -46,8 +46,8 @@
       <description><![CDATA[🌡️ Temp: 22.75°C
 💧 Hum: 42.67%
 💨 CO2: 1796.76 ppm]]></description>
-      <guid isPermaLink="false">2026-11-26T02:41:26.723Z</guid>
-      <pubDate>Thu, 26 Nov 2026 02:41:29 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-26T03:41:25.549Z</guid>
+      <pubDate>Thu, 26 Nov 2026 03:41:28 GMT</pubDate>
       <zone>P4 Ascensores</zone>
       <temperature>22.75</temperature>
       <humidity>42.67</humidity>
